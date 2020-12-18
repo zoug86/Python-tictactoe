@@ -1,0 +1,1 @@
+Tic-tac-toe using python: 2 players playing the game in a continuous loop and with an up to date score board, until a player decides to quit.
